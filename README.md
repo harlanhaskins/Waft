@@ -1,4 +1,4 @@
-# Waft
+# Waft ![Build Status](https://travis-ci.org/harlanhaskins/Waft.svg?branch=master)
 A dead-simple testing framework for Java.
 
 Waft tests are expressed as test methods that expose various expectations
