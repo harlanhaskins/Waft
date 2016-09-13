@@ -16,7 +16,7 @@ class ShoppingCartTests {
 }
 ```
 
-This would print:
+`new ShoppingCartTests().runTests()` would print:
 
 ```
 com.mypackage.ShoppingCartTests Results:
